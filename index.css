@@ -1,0 +1,126 @@
+
+
+.one{
+    background-color: rgb(228, 212, 192);
+    
+}
+body{
+    background-color:rgb(154, 161, 150);
+}
+
+
+
+
+
+/*        for left side         */
+
+.left{
+    
+    width: 200px;
+    display: inline-block;
+    margin: 0px 0px;
+    padding: 5px 15px;
+  
+}
+.left h2{
+    
+    color: white;
+    margin: 0px 0px;
+    padding: 0px 0px;
+}
+.left img{
+    margin: -4px 45px;
+    padding: 0px 0px;
+}
+
+
+/* for nav bar  */
+
+.navbar{
+    
+    position: absolute;
+    margin: 0px 0px;
+    padding: 0px 0px;
+    position: absolute;
+    right: 350px;
+    top: 50px;
+    font-size: 1.5rem;
+    
+}
+.navbar a{
+    color: white;
+    text-decoration: none;
+    display: inline-block;
+    margin: 0px 0px;
+    padding: 0px 5px;
+    
+}
+.navbar a:hover{
+    color: rgb(72, 128, 72)
+}
+
+
+
+
+/* right */
+
+.right{
+    
+    width: 200px;
+    position: absolute;
+    right: 30px;
+    top: 50px;
+    font-size: 1.1rem;
+    display: inline-block;
+    
+}
+
+.right a{
+    color: white;
+    text-decoration: none;
+
+}
+.right a:hover{
+    color: rgb(99, 122, 99);
+    
+
+}
+
+.right .login a{
+    border: solid;
+
+}
+
+.right .signup a{
+    border: solid;
+
+}
+.right .signup {
+    margin: -20px 63px;
+    padding: 0px 0px;
+    
+}
+.right .login {
+    
+    
+
+}
+
+/*  parone */
+.paraone a{
+    
+    border: solid;
+    border-radius: 6px;
+    text-decoration: none;
+    color:black;
+    font-size: larger;
+    
+}
+.two .l2{
+    position: absolute;
+    padding: 5px 10px;
+    margin: 10px 170px;
+}
+.two .l2:hover{
+    background-color: rgb(99, 122, 99)
+}
