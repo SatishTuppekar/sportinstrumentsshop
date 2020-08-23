@@ -124,3 +124,19 @@ body{
 .two .l2:hover{
     background-color: rgb(99, 122, 99)
 }
+
+/* OUR CUSTOMERS */
+.three{
+    border:  ;
+    padding: 0px 0px;
+    margin: 100px 290px;
+    
+}
+.partner a{
+    text-decoration: none;
+    font-size: 4.0rem;
+    color: black;
+}
+
+
+}
